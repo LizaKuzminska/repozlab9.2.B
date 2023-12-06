@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(435,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(438,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(443,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(455,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(458,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\lab9.2.B.cpp(463,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\x64\Debug\UnitTest1.lib and object C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\lizak\OneDrive\Робочий стіл\Алгоритмізація\Лаб9\lab9.2.B\x64\Debug\UnitTest1.dll
